@@ -6,6 +6,8 @@
 
 - 👀 I’m interested in **Software**
 
+- 😄 Pronouns: **Kod_Yazari**
+
 - 💬 Ask me about **Python**
 
 <h3 align="left">Connect with me:</h3>
