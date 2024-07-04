@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/channel/UC4e3jQe2fz3lAyH2lOt3GlQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="softwareandmathematics" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCUC_tAhpw0kW-svWJRTrNAQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="softwareandmathematics" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages :</h3>
