@@ -1,9 +1,14 @@
 - 👋 Hi, I’m Ege
+- 
 - 👀 I’m interested in software
+- 
 - 🌱 I’m currently learning Python,C,Dijango,HTML,Artificial Intelligence
+- 
 - 💬 Ask me about Python
+- 
 - 😄 Pronouns: Kod_Yazari
-- Languages:Python,C, Unity, Arduino,Scratch
+- 
+- 🌎Languages:Python,C, Unity, Arduino,Scratch
 
 
 <!---
