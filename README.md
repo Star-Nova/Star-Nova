@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ege</h1>
 <h3 align="center">Future software developer from Turkey</h3>
 
-
-- 🌱 I’m currently learning **Python,HTML,C, Dijango**
+- 🌱 I’m currently learning **Python, HTML, C, Django**
 
 - 👀 I’m interested in **Software**
 
@@ -12,7 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/channel/UCUC_tAhpw0kW-svWJRTrNAQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="softwareandmathematics" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UCUC_tAhpw0kW-svWJRTrNAQ" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="softwareandmathematics" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages :</h3>
@@ -38,4 +39,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html" width="40" height="40"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
 </p>
