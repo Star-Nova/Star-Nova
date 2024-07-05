@@ -41,8 +41,13 @@
   </a>
 </p>
 
+<!-- KOD_YAZARI Görseli Ekleme -->
+<h3 align="center">KOD_YAZARI</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150" />
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150" />
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150" />
+  <img src="https://via.placeholder.com/200x100.png?text=KOD_YAZARI" alt="KOD_YAZARI Logo"/>
+</p>
+
+<!-- KOD_YAZARI GIF Ekleme -->
+<p align="center">
+  <img src="https://media.giphy.com/media/j5Fvu5bZf4mFOuX4Il/giphy.gif" alt="KOD_YAZARI GIF"/>
 </p>
