@@ -40,3 +40,17 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html" width="40" height="40"/>
   </a>
 </p>
+
+<!-- Görselleri bu bölüme ekleyeceğiz -->
+<p align="center">
+  <img src="/mnt/data/DeveloperIcon.png" alt="Developer Icon" width="100" height="100"/>
+</p>
+
+<p align="center">
+  <img src="/mnt/data/KODYAZARI.png" alt="Kod_Yazarı" width="200" height="200"/>
+</p>
+
+<p align="center">
+  <img src="/mnt/data/DeveloperIcon.png" alt="Developer Icon" width="100" height="100"/>
+</p>
+
