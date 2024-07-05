@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ege</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Ege</h1>
 <h3 align="center">Future software developer from Turkey</h3>
 
 - 🌱 I’m currently learning **Python, HTML, C, Django**
@@ -39,8 +39,4 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html" width="40" height="40"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
 </p>
