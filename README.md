@@ -40,3 +40,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html" width="40" height="40"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150" />
+</p>
