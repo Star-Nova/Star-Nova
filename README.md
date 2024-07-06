@@ -44,9 +44,7 @@
 <!-- Görselleri bu bölüme ekleyeceğiz -->
 <p align="center">
   <img src="https://github.com/Star-Nova/Star-Nova/blob/main/DeveloperIcon.png" alt="Developer Icon" width="100" height="100"/>
-</p>
-
-<p align="center">
   <img src="https://github.com/Star-Nova/Star-Nova/blob/main/KODYAZARI.png" alt="Kod_Yazarı" width="200" height="200"/>
+  <img src="https://github.com/Star-Nova/Star-Nova/blob/main/DeveloperIcon.png" alt="Developer Icon" width="100" height="100"/>
+  <img src="https://github.com/Star-Nova/Star-Nova/blob/main/DeveloperIcon.png" alt="Developer Icon" width="100" height="100"/>
 </p>
-
