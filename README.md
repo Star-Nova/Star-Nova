@@ -1,3 +1,8 @@
+<!-- En üste GIF'i ekliyoruz -->
+<p align="center">
+  <img src="https://github.com/Star-Nova/Star-Nova/blob/main/Hello.gif" alt="Hello GIF" width="300" height="100"/>
+</p>
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Ege</h1>
 <h3 align="center">Future software developer from Turkey</h3>
 
@@ -11,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.youtube.com/channel/UCUC_tAhpw0kW-svWJRTrNAQ" target="blank">
+  <a href="https://www.youtube.com/channel/UCUC_tAhpw0kW-svWJRTrNAQ" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="softwareandmathematics" height="30" width="40" />
   </a>
 </p>
@@ -41,7 +46,7 @@
   </a>
 </p>
 
-<!-- Görselleri bu bölüme ekleyeceğiz -->
+<!-- Görselleri bu bölüme ekliyoruz ve yan yana olacak şekilde düzenliyoruz -->
 <p align="center">
   <img src="https://github.com/Star-Nova/Star-Nova/blob/main/DeveloperIcon.png" alt="Developer Icon" width="100" height="100"/>
   <img src="https://github.com/Star-Nova/Star-Nova/blob/main/KODYAZARI.png" alt="Kod_Yazarı" width="200" height="200"/>
