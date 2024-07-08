@@ -33,10 +33,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://scratch.mit.edu/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Scratch_Logo.svg" alt="scratch" width="40" height="40"/>
+    <img src="https://github.com/Star-Nova/Star-Nova/blob/main/scratch.png" alt="scratch" width="40" height="40"/>
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_Logo.svg" alt="unity" width="40" height="40"/>
+    <img src="https://github.com/Star-Nova/Star-Nova/blob/main/unity%20imagines.png" alt="unity" width="40" height="40"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
