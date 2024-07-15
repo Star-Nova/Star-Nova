@@ -46,13 +46,8 @@
   </a>
 </p>
 
-<!-- JPG fotoğraflar -->
-<p align="center">
-  <video width="400" height="300" controls>
-    <source src="https://github.com/Star-Nova/Star-Nova/blob/main/kod_yazarı.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
+<!-- Kod_Yazarı intro bağlantısı -->
+<h3 align="center"><a href="https://github.com/Star-Nova/Star-Nova/blob/main/kod_yazar%C4%B1.mp4" target="_blank">Kod_Yazarı Intro</a></h3>
 
 <!-- Görselleri bu bölüme ekliyoruz ve yan yana olacak şekilde düzenliyoruz -->
 <p align="center">
