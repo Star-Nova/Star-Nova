@@ -52,3 +52,8 @@
   <img src="https://github.com/Star-Nova/Star-Nova/blob/main/KODYAZARI.png" alt="Kod_Yazarı" width="200" height="200"/>
   <img src="https://github.com/Star-Nova/Star-Nova/blob/main/DeveloperIcon.png" alt="Developer Icon" width="100" height="100"/>
 </p>
+
+<!-- JPG fotoğraflar -->
+<p align="center">
+  <img src="/mnt/data/kod_yazarı.mp4" alt="Kod_Yazarı Video" width="400" height="300"/>
+</p>
