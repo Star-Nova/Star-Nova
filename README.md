@@ -46,14 +46,17 @@
   </a>
 </p>
 
+<!-- JPG fotoğraflar -->
+<p align="center">
+  <video width="400" height="300" controls>
+    <source src="https://github.com/Star-Nova/Star-Nova/blob/main/kod_yazarı.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
 <!-- Görselleri bu bölüme ekliyoruz ve yan yana olacak şekilde düzenliyoruz -->
 <p align="center">
   <img src="https://github.com/Star-Nova/Star-Nova/blob/main/DeveloperIcon.png" alt="Developer Icon" width="100" height="100"/>
   <img src="https://github.com/Star-Nova/Star-Nova/blob/main/KODYAZARI.png" alt="Kod_Yazarı" width="200" height="200"/>
   <img src="https://github.com/Star-Nova/Star-Nova/blob/main/DeveloperIcon.png" alt="Developer Icon" width="100" height="100"/>
-</p>
-
-<!-- JPG fotoğraflar -->
-<p align="center">
-  <img src="/mnt/data/kod_yazarı.mp4" alt="Kod_Yazarı Video" width="400" height="300"/>
 </p>
