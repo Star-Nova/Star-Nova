@@ -1,3 +1,9 @@
+## About Me, [Joel Shine (JS)](https://joelshine.github.io/)
+
+![](https://komarev.com/ghpvc/?username=SetuCoder&color=green)
+&nbsp; [![YouTube](https://img.shields.io/badge/YouTube-Channel-%23E62117)](https://www.youtube.com/channel/UCKaqF5TBF2j_R8PB7Sfu_mg) 
+&nbsp; ![GitHub](https://img.shields.io/github/followers/JoelShine?label=Follow%20Me%21&style=social)
+
 <!-- En üste GIF'i ekliyoruz -->
 <p align="center">
   <img src="https://github.com/Star-Nova/Star-Nova/blob/main/Hello.gif" alt="Hello GIF" width="300" height="100"/>
