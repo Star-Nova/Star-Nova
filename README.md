@@ -1,7 +1,7 @@
 ## About Me, [Star-Nova (JS)](https://joelshine.github.io/)##
 
 ![](https://komarev.com/ghpvc/?username=Star-Nova&color=green)
-&nbsp; [![YouTube](https://img.shields.io/badge/YouTube-Channel-%23E62117)]((https://www.youtube.com/channel/UCUC_tAhpw0kW-svWJRTrNAQ)_R8PB7Sfu_mg) 
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-%23E62117)](https://www.youtube.com/channel/UCUC_tAhpw0kW-svWJRTrNAQ)
 &nbsp; ![GitHub](https://img.shields.io/github/followers/Star-Nova?label=Follow%20Me%21&style=social)
 
 <!-- En üste GIF'i ekliyoruz -->
