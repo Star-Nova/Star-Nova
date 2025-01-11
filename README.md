@@ -16,7 +16,7 @@
 
 - 😄 Pronouns: **Kod_Yazari**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python,HTML,CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
